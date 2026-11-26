@@ -1,6 +1,5 @@
 # 💫 About Me:
-Estou no mestrado de engenharia informatica na ulo em leiria, a procura de trabalho e tirei licenciatua em engenharia informatica em leiria ulo tambem
-
+BSc in Computer Engineering @ ULO | MSc student in the same field | Open to work
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_martimr_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martim-ribeiro-072078364) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:martim.s.n.r@gmail.com) 
